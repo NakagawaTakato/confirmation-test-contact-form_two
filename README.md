@@ -54,3 +54,4 @@ php artisan migrate
 ## URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/
+# confirmation-test-contact-form_two
